@@ -22,7 +22,7 @@ public class Main {
         // Set up the URL with the search term and send the request
         String searchUrl = "https://" + city + ".craigslist.org/search/" + category + "?query=" + URLEncoder.encode(searchQuery, "UTF-8");
         HtmlPage page = client.getPage(searchUrl);
-
+        System.out.println(page.asXml());
         List<HtmlElement> items = page.getByXPath("//li[@class='result-row']") ;
 
         if (!items.isEmpty()) {
