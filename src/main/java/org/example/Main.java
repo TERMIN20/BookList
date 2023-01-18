@@ -11,8 +11,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) throws IOException {
         String searchQuery = "turtle";
-        String city = "seattle";
-        String category = "ccc";
+        String category = "_1";
 
         // Instantiate the client
         WebClient client = new WebClient();
@@ -20,16 +19,16 @@ public class Main {
         client.getOptions().setJavaScriptEnabled(false);
 
         // Set up the URL with the search term and send the request
-        String searchUrl = "https://" + city + ".craigslist.org/search/" + category + "?query=" + URLEncoder.encode(searchQuery, "UTF-8");
+        String searchUrl = "http://books.toscrape.com/catalogue/category/books" + category + "/index.html";
         HtmlPage page = client.getPage(searchUrl);
         System.out.println(page.asXml());
-        List<HtmlElement> items = page.getByXPath("//li[@class='result-row']") ;
-
+        List<HtmlElement> items = page.getByXPath("//li[@class='col-xs-6 col-sm-4 col-md-3 col-lg-3']/article") ;
+        System.out.println(items);
         if (!items.isEmpty()) {
             // Iterate over all elements
             for (HtmlElement item : items) {
 
-                HtmlAnchor itemAnchor = ((HtmlAnchor) item.getFirstByXPath(".//p[@class='cl-search-result cl-search-view-mode-list']/a"));
+                HtmlAnchor itemAnchor = ((HtmlAnchor) item.getFirstByXPath(".//p"));
 
                 // Get the price from <a><span class="result-price"></span></a>
                 HtmlElement spanPrice = ((HtmlElement) item.getFirstByXPath(".//p/span[@class='cl-search-result cl-search-view-mode-list']")) ;
