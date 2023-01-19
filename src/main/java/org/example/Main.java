@@ -8,19 +8,30 @@ import java.io.IOException;
 import java.net.URLEncoder;
 import java.util.List;
 
+/*
+This code uses the HtmlUnit package under the Apache License, Version 2.0
+*/
+
+
 public class Main {
     public static void main(String[] args) throws IOException {
-        String searchQuery = "turtle";
+        String query  = "turtle";
         String category = "_1";
 
         // Instantiate the client
+
+        // Set up the URL with the search term and send the request
+        String searchUrl = "http://books.toscrape.com/catalogue/category/books" + category + "/index.html";
+        getPage(searchUrl);
+
+    }
+
+    public static void getPage(String url) throws IOException {
         WebClient client = new WebClient();
         client.getOptions().setCssEnabled(false);
         client.getOptions().setJavaScriptEnabled(false);
 
-        // Set up the URL with the search term and send the request
-        String searchUrl = "http://books.toscrape.com/catalogue/category/books" + category + "/index.html";
-        HtmlPage page = client.getPage(searchUrl);
+        HtmlPage page = client.getPage(url);
         System.out.println(page.asXml());
         List<HtmlElement> items = page.getByXPath("//li[@class='col-xs-6 col-sm-4 col-md-3 col-lg-3']/article") ;
         System.out.println(items);
@@ -36,9 +47,6 @@ public class Main {
                 String itemName = itemAnchor.asNormalizedText();
                 String itemUrl =  itemAnchor.getHrefAttribute();
 
-
-
-                System.out.println( String.format("Name : %s Url : %s ", itemName, itemUrl));
 
             }
         }
