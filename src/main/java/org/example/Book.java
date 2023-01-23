@@ -14,7 +14,7 @@ public class Book {
 
     public String toString()
     {
-        return String.format("Title: %s Link: %s starRating: %s", title, url, starRating);
+        return String.format("Title: %s Link: %s Rating: %s", title, url, starRating.substring(12));
     }
 
 }

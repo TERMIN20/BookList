@@ -29,7 +29,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         //define url variables and rating threshold
         String category = "_1";
-        String ratingThreshold = "star-rating Three";
+        String ratingThreshold = "five";
         int page = 1;
 
         //create stack to store Book objects
@@ -139,7 +139,7 @@ public class Main {
                 String itemUrl =  itemAnchor.getHrefAttribute();
 
 
-                if(meetsThreshold(starRating)) {
+                if(meetsThreshold(starRating, ratingThreshold)) {
                     Book bookObject = new Book(itemName, itemUrl, starRating);
                     bookStack.add(bookObject);
 
@@ -167,11 +167,37 @@ public class Main {
     }
 
     //checks if a book is rated highly enough for the user's list, returns boolean value
-    public static boolean meetsThreshold(String starRating)
+    public static boolean meetsThreshold(String starRating, String ratingThreshold)
     {
-
-        if(starRating.equals("star-rating Four") || starRating.equals("star-rating Five")){
-            return true;
+        if(ratingThreshold == "one"){
+            if(starRating.equals("star-rating One") || starRating.equals("star-rating Two") || starRating.equals("star-rating Three") ||starRating.equals("star-rating Four") || starRating.equals("star-rating Five")){
+                return true;
+            }
+            return false;
+        }
+        if(ratingThreshold == "two"){
+            if(starRating.equals("star-rating Two") || starRating.equals("star-rating Three") ||starRating.equals("star-rating Four") || starRating.equals("star-rating Five")){
+                return true;
+            }
+            return false;
+        }
+        if(ratingThreshold == "three"){
+            if(starRating.equals("star-rating Three") ||starRating.equals("star-rating Four") || starRating.equals("star-rating Five")){
+                return true;
+            }
+            return false;
+        }
+        if(ratingThreshold == "four"){
+            if(starRating.equals("star-rating Four") || starRating.equals("star-rating Five")){
+                return true;
+            }
+            return false;
+        }
+        if(ratingThreshold == "five"){
+            if(starRating.equals("star-rating Five")){
+                return true;
+            }
+            return false;
         }
         return false;
     }
