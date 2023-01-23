@@ -8,13 +8,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlParagraph;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.PrintStream;
-import java.net.URLEncoder;
-import java.nio.file.Path;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
-import java.util.Stack;
+import java.util.*;
 
 /*
 This code uses the HtmlUnit package under the Apache License, Version 2.0
@@ -27,10 +21,15 @@ Uses toscrape.com's fictional online bookstore web scraping sandbox and abides b
 
 public class Main {
     public static void main(String[] args) throws IOException {
+
+        Scanner sc = new Scanner((System.in));
+        System.out.println("Enter rating threshold: ");
+
+
         //define url variables and rating threshold
         String category = "_1";
-        String ratingThreshold = "five";
-        int page = 1;
+        String ratingThreshold = sc.nextLine().toLowerCase();
+        int page = 40;
 
         //create stack to store Book objects
         Stack<Book> bookStack = new Stack<Book>();
@@ -62,7 +61,6 @@ public class Main {
 
 
         //Create file or get it empty.
-        Path file = Path.of("C:\\Users\\abhin\\IdeaProjects\\Craigslist Project\\src\\main\\java\\org\\example\\BookList.txt");
         File bookList = new File("BookList.txt");
         try {
             if (bookList.createNewFile()) {
@@ -102,10 +100,10 @@ public class Main {
     //recursively iterate through the website's pages until all pages are considered.
     public static void startSearch(int page, String category, String ratingThreshold, Stack<Book> bookStack) throws IOException {
         String url = "http://books.toscrape.com/catalogue/category/books" + category + "/page-" + page + ".html";
-        System.out.println(noNextPage(url));
-
+        System.out.println("isNextPage: " + !noNextPage(url));
+        System.out.println("Page: " + page);
         //base case: No next page
-        if(noNextPage(url)|| page == 5){
+        if(noNextPage(url)){
             getPage(url, ratingThreshold, bookStack);
             //add output method
             System.out.println(bookStack.toString());
@@ -113,6 +111,7 @@ public class Main {
         else{
             getPage(url, ratingThreshold, bookStack);
             startSearch(page+1, category, ratingThreshold, bookStack);
+
         }
 
     }
@@ -150,8 +149,11 @@ public class Main {
             System.out.println("No items found !");
         }
 
-        System.out.println("Page Finished");
+
     }
+
+
+
 
 
     //returns true if there is no next page button

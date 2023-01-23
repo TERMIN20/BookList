@@ -1,19 +1,76 @@
-Title: Sapiens: A Brief History of Humankind Link: http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html starRating: Five
-Title: Set Me Free Link: http://books.toscrape.com/catalogue/set-me-free_988/index.html starRating: Five
-Title: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) Link: http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html starRating: Five
-Title: Rip it Up and Start Again Link: http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html starRating: Five
-Title: Chase Me (Paris Nights #2) Link: http://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html starRating: Five
-Title: Black Dust Link: http://books.toscrape.com/catalogue/black-dust_976/index.html starRating: Five
-Title: Worlds Elsewhere: Journeys Around Shakespeare’s Globe Link: http://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html starRating: Five
-Title: The Four Agreements: A Practical Guide to Personal Freedom Link: http://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html starRating: Five
-Title: The Elephant Tree Link: http://books.toscrape.com/catalogue/the-elephant-tree_968/index.html starRating: Five
-Title: Sophie's World Link: http://books.toscrape.com/catalogue/sophies-world_966/index.html starRating: Five
-Title: Private Paris (Private #10) Link: http://books.toscrape.com/catalogue/private-paris-private-10_958/index.html starRating: Five
-Title: #HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe. Link: http://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html starRating: Five
-Title: We Love You, Charlie Freeman Link: http://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html starRating: Five
-Title: Thirst Link: http://books.toscrape.com/catalogue/thirst_946/index.html starRating: Five
-Title: The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer Link: http://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html starRating: Five
-Title: The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution Link: http://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html starRating: Five
-Title: Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1) Link: http://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html starRating: Five
-Title: Princess Between Worlds (Wide-Awake Princess #5) Link: http://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html starRating: Five
-Title: Join Link: http://books.toscrape.com/catalogue/join_902/index.html starRating: Five
+Title: Seven Brief Lessons on Physics Link: http://books.toscrape.com/catalogue/seven-brief-lessons-on-physics_219/index.html Rating: Four
+Title: Scarlet (The Lunar Chronicles #2) Link: http://books.toscrape.com/catalogue/scarlet-the-lunar-chronicles-2_218/index.html Rating: Four
+Title: Saga, Volume 3 (Saga (Collected Editions) #3) Link: http://books.toscrape.com/catalogue/saga-volume-3-saga-collected-editions-3_216/index.html Rating: Five
+Title: Running with Scissors Link: http://books.toscrape.com/catalogue/running-with-scissors_215/index.html Rating: Four
+Title: Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars Link: http://books.toscrape.com/catalogue/rise-of-the-rocket-girls-the-women-who-propelled-us-from-missiles-to-the-moon-to-mars_213/index.html Rating: Four
+Title: Ready Player One Link: http://books.toscrape.com/catalogue/ready-player-one_209/index.html Rating: Four
+Title: Life Without a Recipe Link: http://books.toscrape.com/catalogue/life-without-a-recipe_188/index.html Rating: Five
+Title: Legend (Legend #1) Link: http://books.toscrape.com/catalogue/legend-legend-1_184/index.html Rating: Four
+Title: Lamb: The Gospel According to Biff, Christ's Childhood Pal Link: http://books.toscrape.com/catalogue/lamb-the-gospel-according-to-biff-christs-childhood-pal_182/index.html Rating: Five
+Title: Lady Renegades (Rebel Belle #3) Link: http://books.toscrape.com/catalogue/lady-renegades-rebel-belle-3_181/index.html Rating: Five
+Title: Into the Wild Link: http://books.toscrape.com/catalogue/into-the-wild_177/index.html Rating: Five
+Title: Inferno (Robert Langdon #4) Link: http://books.toscrape.com/catalogue/inferno-robert-langdon-4_176/index.html Rating: Five
+Title: If I Run (If I Run #1) Link: http://books.toscrape.com/catalogue/if-i-run-if-i-run-1_174/index.html Rating: Four
+Title: Heir to the Sky Link: http://books.toscrape.com/catalogue/heir-to-the-sky_166/index.html Rating: Four
+Title: Green Eggs and Ham (Beginner Books B-16) Link: http://books.toscrape.com/catalogue/green-eggs-and-ham-beginner-books-b-16_165/index.html Rating: Four
+Title: Gratitude Link: http://books.toscrape.com/catalogue/gratitude_163/index.html Rating: Five
+Title: Gone Girl Link: http://books.toscrape.com/catalogue/gone-girl_162/index.html Rating: Five
+Title: Golden (Heart of Dread #3) Link: http://books.toscrape.com/catalogue/golden-heart-of-dread-3_161/index.html Rating: Four
+Title: Fire Bound (Sea Haven/Sisters of the Heart #5) Link: http://books.toscrape.com/catalogue/fire-bound-sea-havensisters-of-the-heart-5_157/index.html Rating: Four
+Title: Fifty Shades Freed (Fifty Shades #3) Link: http://books.toscrape.com/catalogue/fifty-shades-freed-fifty-shades-3_156/index.html Rating: Five
+Title: Disrupted: My Misadventure in the Start-Up Bubble Link: http://books.toscrape.com/catalogue/disrupted-my-misadventure-in-the-start-up-bubble_148/index.html Rating: Five
+Title: Dead Wake: The Last Crossing of the Lusitania Link: http://books.toscrape.com/catalogue/dead-wake-the-last-crossing-of-the-lusitania_147/index.html Rating: Five
+Title: Dark Places Link: http://books.toscrape.com/catalogue/dark-places_144/index.html Rating: Five
+Title: Crazy Rich Asians (Crazy Rich Asians #1) Link: http://books.toscrape.com/catalogue/crazy-rich-asians-crazy-rich-asians-1_143/index.html Rating: Five
+Title: Breaking Dawn (Twilight #4) Link: http://books.toscrape.com/catalogue/breaking-dawn-twilight-4_136/index.html Rating: Five
+Title: Brave Enough Link: http://books.toscrape.com/catalogue/brave-enough_135/index.html Rating: Five
+Title: Blink: The Power of Thinking Without Thinking Link: http://books.toscrape.com/catalogue/blink-the-power-of-thinking-without-thinking_132/index.html Rating: Five
+Title: Between Shades of Gray Link: http://books.toscrape.com/catalogue/between-shades-of-gray_128/index.html Rating: Five
+Title: Beautiful Creatures (Caster Chronicles #1) Link: http://books.toscrape.com/catalogue/beautiful-creatures-caster-chronicles-1_125/index.html Rating: Five
+Title: Ash Link: http://books.toscrape.com/catalogue/ash_123/index.html Rating: Four
+Title: Annie on My Mind Link: http://books.toscrape.com/catalogue/annie-on-my-mind_120/index.html Rating: Five
+Title: A Walk in the Woods: Rediscovering America on the Appalachian Trail Link: http://books.toscrape.com/catalogue/a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail_118/index.html Rating: Four
+Title: A Visit from the Goon Squad Link: http://books.toscrape.com/catalogue/a-visit-from-the-goon-squad_117/index.html Rating: Five
+Title: A Heartbreaking Work of Staggering Genius Link: http://books.toscrape.com/catalogue/a-heartbreaking-work-of-staggering-genius_115/index.html Rating: Five
+Title: New Moon (Twilight #2) Link: http://books.toscrape.com/catalogue/new-moon-twilight-2_105/index.html Rating: Four
+Title: Life Link: http://books.toscrape.com/catalogue/life_104/index.html Rating: Five
+Title: H is for Hawk Link: http://books.toscrape.com/catalogue/h-is-for-hawk_102/index.html Rating: Five
+Title: Fruits Basket, Vol. 2 (Fruits Basket #2) Link: http://books.toscrape.com/catalogue/fruits-basket-vol-2-fruits-basket-2_100/index.html Rating: Five
+Title: Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book) Link: http://books.toscrape.com/catalogue/diary-of-a-minecraft-zombie-book-1-a-scare-of-a-dare-an-unofficial-minecraft-book_99/index.html Rating: Four
+Title: Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1) Link: http://books.toscrape.com/catalogue/y-the-last-man-vol-1-unmanned-y-the-last-man-1_98/index.html Rating: Four
+Title: While You Were Mine Link: http://books.toscrape.com/catalogue/while-you-were-mine_97/index.html Rating: Five
+Title: Ways of Seeing Link: http://books.toscrape.com/catalogue/ways-of-seeing_94/index.html Rating: Five
+Title: Twenty Love Poems and a Song of Despair Link: http://books.toscrape.com/catalogue/twenty-love-poems-and-a-song-of-despair_91/index.html Rating: Four
+Title: Travels with Charley: In Search of America Link: http://books.toscrape.com/catalogue/travels-with-charley-in-search-of-america_90/index.html Rating: Five
+Title: The Zombie Room Link: http://books.toscrape.com/catalogue/the-zombie-room_87/index.html Rating: Five
+Title: The Tumor Link: http://books.toscrape.com/catalogue/the-tumor_85/index.html Rating: Five
+Title: The Story of Hong Gildong Link: http://books.toscrape.com/catalogue/the-story-of-hong-gildong_84/index.html Rating: Four
+Title: The Silent Wife Link: http://books.toscrape.com/catalogue/the-silent-wife_83/index.html Rating: Five
+Title: The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1) Link: http://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html Rating: Four
+Title: The Hook Up (Game On #1) Link: http://books.toscrape.com/catalogue/the-hook-up-game-on-1_68/index.html Rating: Five
+Title: The Haters Link: http://books.toscrape.com/catalogue/the-haters_67/index.html Rating: Five
+Title: The Girl You Lost Link: http://books.toscrape.com/catalogue/the-girl-you-lost_66/index.html Rating: Five
+Title: The Edge of Reason (Bridget Jones #2) Link: http://books.toscrape.com/catalogue/the-edge-of-reason-bridget-jones-2_63/index.html Rating: Four
+Title: The Art of Not Breathing Link: http://books.toscrape.com/catalogue/the-art-of-not-breathing_58/index.html Rating: Four
+Title: Shadow Rites (Jane Yellowrock #10) Link: http://books.toscrape.com/catalogue/shadow-rites-jane-yellowrock-10_51/index.html Rating: Four
+Title: Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5) Link: http://books.toscrape.com/catalogue/rat-queens-vol-1-sass-sorcery-rat-queens-collected-editions-1-5_46/index.html Rating: Five
+Title: Paper Girls, Vol. 1 (Paper Girls #1-5) Link: http://books.toscrape.com/catalogue/paper-girls-vol-1-paper-girls-1-5_44/index.html Rating: Four
+Title: Off Sides (Off #1) Link: http://books.toscrape.com/catalogue/off-sides-off-1_38/index.html Rating: Five
+Title: Myriad (Prentor #1) Link: http://books.toscrape.com/catalogue/myriad-prentor-1_36/index.html Rating: Four
+Title: Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1) Link: http://books.toscrape.com/catalogue/ms-marvel-vol-1-no-normal-ms-marvel-2014-2015-1_34/index.html Rating: Four
+Title: Lost Among the Living Link: http://books.toscrape.com/catalogue/lost-among-the-living_31/index.html Rating: Four
+Title: Kitchens of the Great Midwest Link: http://books.toscrape.com/catalogue/kitchens-of-the-great-midwest_28/index.html Rating: Five
+Title: Jane Eyre Link: http://books.toscrape.com/catalogue/jane-eyre_27/index.html Rating: Five
+Title: Imperfect Harmony Link: http://books.toscrape.com/catalogue/imperfect-harmony_26/index.html Rating: Four
+Title: Icing (Aces Hockey #2) Link: http://books.toscrape.com/catalogue/icing-aces-hockey-2_25/index.html Rating: Four
+Title: Having the Barbarian's Baby (Ice Planet Barbarians #7.5) Link: http://books.toscrape.com/catalogue/having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html Rating: Four
+Title: Giant Days, Vol. 1 (Giant Days #1-4) Link: http://books.toscrape.com/catalogue/giant-days-vol-1-giant-days-1-4_22/index.html Rating: Four
+Title: Fruits Basket, Vol. 1 (Fruits Basket #1) Link: http://books.toscrape.com/catalogue/fruits-basket-vol-1-fruits-basket-1_21/index.html Rating: Five
+Title: Deep Under (Walker Security #1) Link: http://books.toscrape.com/catalogue/deep-under-walker-security-1_15/index.html Rating: Five
+Title: Choosing Our Religion: The Spiritual Lives of America's Nones Link: http://books.toscrape.com/catalogue/choosing-our-religion-the-spiritual-lives-of-americas-nones_14/index.html Rating: Four
+Title: Bright Lines Link: http://books.toscrape.com/catalogue/bright-lines_11/index.html Rating: Five
+Title: Bounty (Colorado Mountain #7) Link: http://books.toscrape.com/catalogue/bounty-colorado-mountain-7_9/index.html Rating: Four
+Title: Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1) Link: http://books.toscrape.com/catalogue/bleach-vol-1-strawberry-and-the-soul-reapers-bleach-1_7/index.html Rating: Five
+Title: Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1) Link: http://books.toscrape.com/catalogue/ajin-demi-human-volume-1-ajin-demi-human-1_4/index.html Rating: Four
+Title: A Spy's Devotion (The Regency Spies of London #1) Link: http://books.toscrape.com/catalogue/a-spys-devotion-the-regency-spies-of-london-1_3/index.html Rating: Five
+Title: 1,000 Places to See Before You Die Link: http://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html Rating: Five
