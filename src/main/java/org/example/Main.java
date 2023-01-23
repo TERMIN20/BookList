@@ -28,8 +28,10 @@ public class Main {
 
         //define url variables and rating threshold
         String category = "_1";
-        String ratingThreshold = sc.nextLine().toLowerCase();
-        int page = 40;
+        String ratingThreshold = sc.next();
+
+
+        int page = 1;
 
         //create stack to store Book objects
         Stack<Book> bookStack = new Stack<Book>();
@@ -171,31 +173,31 @@ public class Main {
     //checks if a book is rated highly enough for the user's list, returns boolean value
     public static boolean meetsThreshold(String starRating, String ratingThreshold)
     {
-        if(ratingThreshold == "one"){
+        if(ratingThreshold.equals("one")){
             if(starRating.equals("star-rating One") || starRating.equals("star-rating Two") || starRating.equals("star-rating Three") ||starRating.equals("star-rating Four") || starRating.equals("star-rating Five")){
                 return true;
             }
             return false;
         }
-        if(ratingThreshold == "two"){
+        if(ratingThreshold.equals("two")){
             if(starRating.equals("star-rating Two") || starRating.equals("star-rating Three") ||starRating.equals("star-rating Four") || starRating.equals("star-rating Five")){
                 return true;
             }
             return false;
         }
-        if(ratingThreshold == "three"){
+        if(ratingThreshold.equals("three")){
             if(starRating.equals("star-rating Three") ||starRating.equals("star-rating Four") || starRating.equals("star-rating Five")){
                 return true;
             }
             return false;
         }
-        if(ratingThreshold == "four"){
+        if(ratingThreshold.equals("four")){
             if(starRating.equals("star-rating Four") || starRating.equals("star-rating Five")){
                 return true;
             }
             return false;
         }
-        if(ratingThreshold == "five"){
+        if(ratingThreshold.equals("five")){
             if(starRating.equals("star-rating Five")){
                 return true;
             }
